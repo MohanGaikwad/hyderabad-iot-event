@@ -1,7 +1,7 @@
 # Hyderabad / IOT Workshop
 
-## Developing Applications on the Qualcomm Linux Platform 
-A single day workshop for developers to build multimedia and AI applications. The goal is to Explore application development using Explore sample apps using QDemo and run sample AI/ML or Multimedia applications using Qualcomm Linux platform and capture feedback on the experience.
+## Developing Applications on the Qualcomm Linux/Ubuntu Platform 
+A single day workshop for developers to build multimedia and AI applications. The goal is to Explore application development using Explore sample apps using QDemo and run sample AI/ML or Multimedia applications using Qualcomm Linux/Ubuntu platform and capture feedback on the experience.
 
 ## Scope 
 ### Overview 
@@ -31,7 +31,7 @@ Links to important hardware and software tools to be used for the workshop.
 - [Overview of Qualcomm build system and user profiles](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-254/introduction.html?vproduct=1601111740013072&version=1.6)  
 
 ## AI Developer Workflow
-Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux platform.
+Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux/Ubuntu platform.
 
 ### Task 1: Explore AI hub and integrate model from AI hub into existing Sample Application.
 
